@@ -1,0 +1,26 @@
+#formulario {
+  border: 1px solid black;
+  padding: 20px;
+}
+label {
+  font-weight: bolder;
+  float: left;
+  width: 110px;
+}
+.contenedor {
+  text-align: center;
+}
+.botonEnviar {
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 15px;
+  padding: 10px;
+  margin-top: 20px;
+  font-size: 16px;
+}
+
+.botonEnviar:hover {
+  cursor: pointer;
+  background-color: turquoise;
+}
